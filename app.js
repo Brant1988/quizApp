@@ -1,5 +1,3 @@
-import "./styles.css";
-
 const randomizeBtn = document.querySelector(".skip");
 const questionPar = document.querySelector(".question");
 const answerContainer = document.querySelector(".answers");
